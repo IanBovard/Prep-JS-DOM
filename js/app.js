@@ -74,8 +74,8 @@ changeList[1].innerHTML = "I'm coming for you Felix";
 
 "Exhaust my entire 9 lives" => "I got 1 life to live!"*/
 
-var changeListAgain = document.getElementsByClassName("li");
-changeList[3].innerHTML = "I got 1 life to live";
+var changeListAgain = document.getElementsByClassName("dalist");
+changeListAgain[3].innerHTML = "I got 1 life to live";
 
 };
 
